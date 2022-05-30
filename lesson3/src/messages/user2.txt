@@ -1,0 +1,12 @@
+User[user3] is logged in
+[user2] AaAS
+[user2] ASasd
+User[user3] is logged in
+[user1] ASAS
+[user2] ASaSD
+[user3] asASD
+[user3] /W USER1 HI
+[user2] adgadsgasdg
+User[user1] is logged in
+[user2] AaADasd
+[user1] adfgafsdg
